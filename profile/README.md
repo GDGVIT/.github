@@ -1,4 +1,4 @@
-<a href="https://www.dscvit.com" target="_blank"><img src="https://i.ibb.co/1zkL9R4/banner.png" border="0" title="GDSC-VIT" alt="GDSC-VIT"></a>
+<a href="https://www.dscvit.com" target="_blank"><img src="https://raw.githubusercontent.com/GDGVIT/.github/master/profile/banner.png" border="0" title="GDSC-VIT" alt="GDSC-VIT"></a>
 
 <h4 align="center">GDSC-VIT is a student community with the aim of making tech more accessible as well create an impact in the society through Open-Source technology. </h4>
 
